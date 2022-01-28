@@ -1,0 +1,34 @@
+{
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+    "OKUMADANGECME3" : "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+
+    "sahip" : "921720794835460156",
+    "prefix" : ".",
+    "footer" : "Satanic ❤️ Pain",
+    "token" : "TOKENİNİZİ GİRİN",
+
+    "tag" : "Pain",
+    "etikettag" : "0401",
+    "sembol" : "",
+  
+    "yetkiliRol" : ["931000694197092372", "", ""],
+    "vipRol" : "",
+    "boosterRol" : "930863594697019393",
+    "kayıtsızRol" : "",
+    "erkekRol1" : "",
+    "erkekRol2" : "",
+    "kadınRol1" : "",
+    "kadınRol2" : "",
+
+    "tagRol" : "931000699049902090",
+    "tagLog" : "933602743984197692",
+
+    "SunucuID" : "930687923291058277",
+    "hosgeldinKanal" : "",
+    "sohbetKanal" : "931000786022989824", 
+    "botSesKanal" : "931000782898229279",
+  
+    "yes" : "ONAY EMOJİSİ",
+    "no" : "RED EMOJİSİ"
+}
